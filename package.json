@@ -4,9 +4,9 @@
   "description": "The Microsoft365DSC PowerShell module provides DSC resources that can be used to deploy, configure and manage Microsoft 365 tenants",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "through2": "^2.0.3",
-    "markdownlint": "^0.11.0"
+    "gulp": "^4.0.2",
+    "through2": "^4.0.2",
+    "markdownlint": "^0.23.1"
   },
   "devDependencies": {
     "gulp-concat": "^2.6.1"
